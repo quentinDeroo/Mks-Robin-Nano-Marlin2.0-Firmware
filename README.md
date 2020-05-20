@@ -1,4 +1,10 @@
-# Mks-Robin-Nano-Marlin2.0-Firmware
+# Mks-Robin-Nano-Marlin2.0-Firmware-for-Sapphire-pro
+
+Here is the Marlin firmware for the Two Trees Sapphire pro forked from Makerbase official Marlin 2.0 release.
+Made for completely stock printer. 
+Fixes the overshoot issue of the hotend, now it only overshoots by around 5°C on my unit, at 220°C.
+Also fixes the bed dimensions compared to the original Marlin 2.0 fork for Sapphire Pro (https://github.com/inib/Marlin/tree/2.0.X-SapphirePro-3.5TFT). Now it matches the Cura profile you can find here : https://github.com/Anisotropic/sapphire_pro_cura_profile
+
 ## Features
 The firmware of Mks Robin Nano, based on [Marlin2.0.x](https://github.com/MarlinFirmware/Marlin)(The based version is based on Marlin2.0.5), added the [LittlevGL](https://github.com/littlevgl/lvgl), supporting colourful GUI and touch screen. It is developed on PlatformIO, we hope more and more developers will participate the development of this repository.
 
