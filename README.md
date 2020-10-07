@@ -1,3 +1,5 @@
+Check my new version based on official Marlin 2.0.7, it's fully fonctionnal with improved UI.
+
 # Mks-Robin-Nano-Marlin2.0-Firmware-for-Sapphire-pro
 
 WORK IN PROGRESS
